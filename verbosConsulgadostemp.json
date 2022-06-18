@@ -1,0 +1,308 @@
+{
+    "tener": {
+        "Indicativo Presente": {
+            "yo": "tengo",
+            "tú": "tienes",
+            "él/ella/Ud.": "tiene",
+            "nosotros": "tenemos",
+            "vosotros": "tenéis",
+            "ellos/ellas/Uds.": "tienen"
+        },
+        "Indicativo Futuro": {
+            "yo": "tendré",
+            "tú": "tendrás",
+            "él/ella/Ud.": "tendrá",
+            "nosotros": "tendremos",
+            "vosotros": "tendréis",
+            "ellos/ellas/Uds.": "tendrán"
+        },
+        "Indicativo Pretérito imperfecto": {
+            "yo": "tenía",
+            "tú": "tenías",
+            "él/ella/Ud.": "tenía",
+            "nosotros": "teníamos",
+            "vosotros": "teníais",
+            "ellos/ellas/Uds.": "tenían"
+        },
+        "Indicativo Pretérito perfecto compuesto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Indicativo Pretérito pluscuamperfecto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Indicativo Pretérito anterior": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Indicativo Futuro perfecto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Indicativo Condicional perfecto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Indicativo Condicional": {
+            "yo": "tendría",
+            "tú": "tendrías",
+            "él/ella/Ud.": "tendría",
+            "nosotros": "tendríamos",
+            "vosotros": "tendríais",
+            "ellos/ellas/Uds.": "tendrían"
+        },
+        "Indicativo Pretérito perfecto simple": {
+            "yo": "tuve",
+            "tú": "tuviste",
+            "él/ella/Ud.": "tuvo",
+            "nosotros": "tuvimos",
+            "vosotros": "tuvisteis",
+            "ellos/ellas/Uds.": "tuvieron"
+        },
+        "Imperativo ": {
+            "tú": "ten",
+            "él/ella/Ud.": "tenga",
+            "nosotros": "tengamos",
+            "vosotros": "tened",
+            "ellos/ellas/Uds.": "tengan"
+        },
+        "Subjuntivo Presente": {
+            "yo": "tenga",
+            "tú": "tengas",
+            "él/ella/Ud.": "tenga",
+            "nosotros": "tengamos",
+            "vosotros": "tengáis",
+            "ellos/ellas/Uds.": "tengan"
+        },
+        "Subjuntivo Futuro": {
+            "yo": "tuviere",
+            "tú": "tuvieres",
+            "él/ella/Ud.": "tuviere",
+            "nosotros": "tuviéremos",
+            "vosotros": "tuviereis",
+            "ellos/ellas/Uds.": "tuvieren"
+        },
+        "Subjuntivo Pretérito imperfecto": {
+            "yo": "tuviera",
+            "tú": "tuvieras",
+            "él/ella/Ud.": "tuviera",
+            "nosotros": "tuviéramos",
+            "vosotros": "tuvierais",
+            "ellos/ellas/Uds.": "tuvieran"
+        },
+        "Subjuntivo Pretérito pluscuamperfecto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Subjuntivo Futuro perfecto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Subjuntivo Pretérito imperfecto (2)": {
+            "yo": "tuviese",
+            "tú": "tuvieses",
+            "él/ella/Ud.": "tuviese",
+            "nosotros": "tuviésemos",
+            "vosotros": "tuvieseis",
+            "ellos/ellas/Uds.": "tuviesen"
+        },
+        "Subjuntivo Pretérito pluscuamperfecto (2)": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        },
+        "Subjuntivo Pretérito perfecto": {
+            "yo": "tenido",
+            "tú": "tenido",
+            "él/ella/Ud.": "tenido",
+            "nosotros": "tenido",
+            "vosotros": "tenido",
+            "ellos/ellas/Uds.": "tenido"
+        }
+    },
+    "partir": {
+        "Indicativo Presente": {
+            "yo": "parto",
+            "tú": "partes",
+            "él/ella/Ud.": "parte",
+            "nosotros": "partimos",
+            "vosotros": "partís",
+            "ellos/ellas/Uds.": "parten"
+        },
+        "Indicativo Futuro": {
+            "yo": "partiré",
+            "tú": "partirás",
+            "él/ella/Ud.": "partirá",
+            "nosotros": "partiremos",
+            "vosotros": "partiréis",
+            "ellos/ellas/Uds.": "partirán"
+        },
+        "Indicativo Pretérito imperfecto": {
+            "yo": "partía",
+            "tú": "partías",
+            "él/ella/Ud.": "partía",
+            "nosotros": "partíamos",
+            "vosotros": "partíais",
+            "ellos/ellas/Uds.": "partían"
+        },
+        "Indicativo Pretérito perfecto compuesto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Indicativo Pretérito pluscuamperfecto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Indicativo Pretérito anterior": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Indicativo Futuro perfecto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Indicativo Condicional perfecto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Indicativo Condicional": {
+            "yo": "partiría",
+            "tú": "partirías",
+            "él/ella/Ud.": "partiría",
+            "nosotros": "partiríamos",
+            "vosotros": "partiríais",
+            "ellos/ellas/Uds.": "partirían"
+        },
+        "Indicativo Pretérito perfecto simple": {
+            "yo": "partí",
+            "tú": "partiste",
+            "él/ella/Ud.": "partió",
+            "nosotros": "partimos",
+            "vosotros": "partisteis",
+            "ellos/ellas/Uds.": "partieron"
+        },
+        "Imperativo ": {
+            "tú": "parte",
+            "él/ella/Ud.": "parta",
+            "nosotros": "partamos",
+            "vosotros": "partid",
+            "ellos/ellas/Uds.": "partan"
+        },
+        "Subjuntivo Presente": {
+            "yo": "parta",
+            "tú": "partas",
+            "él/ella/Ud.": "parta",
+            "nosotros": "partamos",
+            "vosotros": "partáis",
+            "ellos/ellas/Uds.": "partan"
+        },
+        "Subjuntivo Futuro": {
+            "yo": "partiere",
+            "tú": "partieres",
+            "él/ella/Ud.": "partiere",
+            "nosotros": "partiéremos",
+            "vosotros": "partiereis",
+            "ellos/ellas/Uds.": "partieren"
+        },
+        "Subjuntivo Pretérito imperfecto": {
+            "yo": "partiera",
+            "tú": "partieras",
+            "él/ella/Ud.": "partiera",
+            "nosotros": "partiéramos",
+            "vosotros": "partierais",
+            "ellos/ellas/Uds.": "partieran"
+        },
+        "Subjuntivo Pretérito pluscuamperfecto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Subjuntivo Futuro perfecto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Subjuntivo Pretérito imperfecto (2)": {
+            "yo": "partiese",
+            "tú": "partieses",
+            "él/ella/Ud.": "partiese",
+            "nosotros": "partiésemos",
+            "vosotros": "partieseis",
+            "ellos/ellas/Uds.": "partiesen"
+        },
+        "Subjuntivo Pretérito pluscuamperfecto (2)": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        },
+        "Subjuntivo Pretérito perfecto": {
+            "yo": "partido",
+            "tú": "partido",
+            "él/ella/Ud.": "partido",
+            "nosotros": "partido",
+            "vosotros": "partido",
+            "ellos/ellas/Uds.": "partido"
+        }
+    }
+}
